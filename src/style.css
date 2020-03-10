@@ -1,0 +1,53 @@
+.headerContainer {
+  margin-bottom: 1rem;
+}
+
+.contentContainer {
+  display: flex;
+  height: 100%;
+}
+
+.leftMenu {
+  flex:2;
+}
+
+.contentArea {
+  flex:10;
+  text-align: center;
+  padding: 0 20px;
+}
+
+.footerContainer {
+  height: 50px;
+  text-align: center;
+}
+
+.menuItem {
+  display: block;
+  width: 100%;
+}
+
+.menuItem li {
+  list-style-type: none;
+  margin-bottom: 2px;
+  line-height: 2.4rem;
+  display: inline-block;
+  width: 100%;
+  background-color: wheat;
+}
+
+.nav-bar-color {
+  background-color: #e3f2fd;
+}
+
+.nav-link {
+  cursor: pointer;
+}
+
+.list-group-item {
+  cursor: pointer;
+}
+
+.myStyle {
+  color:white;
+}

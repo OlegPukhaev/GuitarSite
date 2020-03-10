@@ -1,0 +1,17 @@
+.itemClass {
+  display: flex;
+  /* display: block; */
+  /* background-color: red; */
+  width: 100%;
+  text-align: start;
+}
+
+.itemClass .idClass{
+  flex:1;
+  max-width: 2rem;
+}
+
+.itemClass div{
+  flex:2;
+}
+
